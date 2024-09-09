@@ -1,5 +1,5 @@
 # Selenium Codes
-<p style="text-align:center">
+<p align="center">
     <img src="https://img.shields.io/badge/Python-blue?style=flat&logo=python&logoColor=white">
     <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=Selenium&logoColor=white">
     <img src="https://img.shields.io/badge/Firefox-FF7139?style=flat&logo=Firefox-Browser&logoColor=white">
